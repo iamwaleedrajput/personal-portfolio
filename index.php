@@ -67,10 +67,6 @@
             management as a CTO, and I know this role would help me hone my
             leadership skills.”
           </p>
-          <p>
-            I've expertise in CRM, ecommerce, social media management tool,
-            project management tool, landing pages, kanban.
-          </p>
         </div>
         <!-- <div class="col-md-1"></div> -->
         <div class="col-xl-6 p-0">
@@ -131,6 +127,29 @@
       </section>
       <section>
         <div class="section-title">
+          <h2 class="gradient_text">Expertise</h2>
+        </div>
+        <div class="row">
+          <div class="col-md-1"></div>
+          <div class="col-md-10">
+            <p>I've expertise in following domains.</p>
+            <ul style="list-style-type: none; padding-left: 0">
+              <li>👉 CRM system.</li>
+              <li>👉 Project management system.</li>
+              <li>👉 Ecommerce solution.</li>
+              <li>👉 KANBAN.</li>
+              <li>👉 Landing pages.</li>
+              <li>👉 Static / Dynamic webiste.</li>
+              <li>👉 Email templates.</li>
+              <li>👉 Social logins.</li>
+              <li>👉 Team management.</li>
+              <li>👉 Video editing.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="section-title">
           <h2 class="gradient_text">Highlights</h2>
           <p class="text-center">Some highlights of my projects are here.</p>
         </div>
@@ -146,16 +165,15 @@
             </p>
           </div>
           <div class="col-md-5">
-            <video
-              class="img-fluid"
-              controls
-              poster="./assets/images/eventive-poster.png"
-            >
-              <source
-                src="./assets/videos/eventive-video.mp4"
-                type="video/mp4"
-              />
-            </video>
+            <iframe
+              width="100%"
+              height="300"
+              src="https://www.youtube.com/embed/deKX7nGBLyY"
+              title="Eventive.pk"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
           </div>
         </div>
         <div class="row flex-row-reverse align-items-center">
@@ -176,16 +194,15 @@
             <p>If you want live demo feel free to contact me.</p>
           </div>
           <div class="col-md-5">
-            <video
-              class="img-fluid"
-              controls
-              poster="./assets/images/dealeradmin-poster.png"
-            >
-              <source
-                src="./assets/videos/dealeradmin-video.mp4"
-                type="video/mp4"
-              />
-            </video>
+            <iframe
+              width="100%"
+              height="300"
+              src="https://www.youtube.com/embed/ldxZQWDLOUc"
+              title="DealerAdmin.io"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
           </div>
         </div>
         <div class="row align-items-center">
@@ -200,22 +217,57 @@
               instagram, twitter. You can publish any post on multiple platform
               on a single click.
             </p>
+            <p>
+              We use facebook apis to connect user's facebook pages to create
+              post, Instagram apis to connect instagram business account to
+              create post, Twitter apis to connect user's personal account to
+              create post.
+            </p>
           </div>
           <div class="col-md-5">
-            <video
-              class="img-fluid"
-              controls
-              poster="./assets/images/socialwing-poster.png"
-              style="width: 100%"
-            >
-              <source
-                src="./assets/videos/socialwing-video.mp4"
-                type="video/mp4"
-              />
-            </video>
+            <iframe
+              width="100%"
+              height="300"
+              src="https://www.youtube.com/embed/7lrottcpI7I"
+              title="My Social Wing"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+        <div class="row flex-row-reverse align-items-center">
+          <div class="col-md-1"></div>
+          <div class="col-md-5">
+            <h5 class="gradient_text">Dealermart.com</h5>
+            <p>
+              Dealermart is a fully functional CRM system made for car dealers
+              based in USA. System is made up by using ReactJS (JavaScript
+              framework) and Django (Python framework). We integrated KANBAN as
+              well in it.
+            </p>
+            <p>
+              Link for the project is:<br />
+              <a href="https://dealermart.epochsitsolutions.com/"
+                >Dealermart.com</a
+              >
+            </p>
+            <p>If you want live demo feel free to contact me.</p>
+          </div>
+          <div class="col-md-5">
+            <iframe
+              width="100%"
+              height="300"
+              src="https://www.youtube.com/embed/Po0U6RrxDI0"
+              title="Dealermart"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
           </div>
         </div>
       </section>
+
       <section>
         <div class="section-title">
           <h2 class="gradient_text">Get In Touch</h2>
@@ -228,7 +280,7 @@
                 <div class="col-md-6 p-1">
                   <div class="card">
                     <div class="card-body contact-info-card">
-                      <em class="fa fa-phone"></em>
+                      <em class="fa fa-phone gradient_text"></em>
                       <p class="m-0">+92 315 52 85 006</p>
                       <p class="m-0">+92 303 87 24 606</p>
                     </div>
@@ -237,7 +289,7 @@
                 <div class="col-md-6 p-1">
                   <div class="card">
                     <div class="card-body contact-info-card">
-                      <em class="fa fa-whatsapp"></em>
+                      <em class="fa fa-whatsapp gradient_text"></em>
                       <p class="m-0">+92 303 87 24 606</p>
                       <p class="m-0">+1 (978) 46 48 620</p>
                     </div>
@@ -246,7 +298,7 @@
                 <div class="col-md-6 p-1">
                   <div class="card">
                     <div class="card-body contact-info-card">
-                      <em class="fa fa-envelope"></em>
+                      <em class="fa fa-envelope gradient_text"></em>
                       <p class="m-0">waleedrajputofficial@gmail.com</p>
                     </div>
                   </div>
@@ -254,12 +306,40 @@
                 <div class="col-md-6 p-1">
                   <div class="card">
                     <div class="card-body contact-info-card">
-                      <em class="fa fa-linkedin"></em>
+                      <em class="fa fa-linkedin gradient_text"></em>
                       <p class="m-0">
                         <a
                           href="https://www.linkedin.com/in/waleedrajputofficial/"
                           target="_blank"
                           >LinkedIn Profile</a
+                        >
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 p-1">
+                  <div class="card">
+                    <div class="card-body contact-info-card">
+                      <em class="fa fa-youtube-play gradient_text"></em>
+                      <p class="m-0">
+                        <a
+                          href="https://www.youtube.com/channel/UCCpmhjwQ3ZtE1ll0vg113Vw"
+                          target="_blank"
+                          >Waleed Tech</a
+                        >
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 p-1">
+                  <div class="card">
+                    <div class="card-body contact-info-card">
+                      <em class="fa fa-github gradient_text"></em>
+                      <p class="m-0">
+                        <a
+                          href="https://github.com/iamwaleedrajput"
+                          target="_blank"
+                          >iamwaleedrajput</a
                         >
                       </p>
                     </div>

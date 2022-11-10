@@ -21,6 +21,7 @@ p {
 }
 a {
   color: var(--primary);
+  text-decoration: none;
 }
 .main-container {
   box-shadow: var(--box-shadow);
