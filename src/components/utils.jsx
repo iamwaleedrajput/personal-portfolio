@@ -3,6 +3,7 @@ const firstName = "Waleed";
 const middleName = "Bin";
 const lastName = "Hameed";
 const designation = "Frontend, MERN Stack Developer";
+const whatsappNumber = "+923155285006";
 
 const aboutMe = `"Hello, I'm ${firstName}, a Frontend MERN Stack Developer. I specialize in creating captivating user interfaces and seamless user experiences using the MERN stack – MongoDB for efficient data management, Express.js for robust APIs, React for dynamic UIs, and Node.js for scalable backend services.
 
@@ -12,4 +13,12 @@ Having collaborated on diverse projects, I've developed a knack for integrating 
 
 If you're seeking a Frontend MERN Stack Developer who can bring your ideas to life and enhance your user-facing applications, I'd be thrilled to explore how I can contribute to your team."`;
 
-export { username, designation, firstName, middleName, lastName, aboutMe };
+export {
+  username,
+  designation,
+  firstName,
+  middleName,
+  lastName,
+  aboutMe,
+  whatsappNumber,
+};

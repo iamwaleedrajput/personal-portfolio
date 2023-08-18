@@ -17,6 +17,11 @@ import rn from "../assets/images/skills/rn.png";
 import sass from "../assets/images/skills/sass.png";
 import social_logins from "../assets/images/skills/social-logins.png";
 import typescript from "../assets/images/skills/typescript.png";
+import mysql from "../assets/images/skills/mysql.png";
+import sequelize from "../assets/images/skills/sequelize.png";
+import mongodb from "../assets/images/skills/mongodb.svg";
+import wordpress from "../assets/images/skills/wordpress.avif";
+import firebaase from "../assets/images/skills/firebase.webp";
 import Slider from "react-slick";
 
 export default function SkillSet() {
@@ -59,13 +64,18 @@ export default function SkillSet() {
     { img: react, title: "React" },
     { img: angular, title: "Angular" },
     { img: mui, title: "MUI" },
-    { img: bootstrap, title: "Bootstrap" },
-    { img: css, title: "CSS" },
     { img: git, title: "GIT" },
-    { img: html, title: "HTML" },
-    { img: javascript, title: "JavaScript" },
-    { img: jquery, title: "jQuery" },
     { img: nodejs, title: "NodeJS" },
+    { img: mysql, title: "MySQL" },
+    { img: sequelize, title: "Sequelize" },
+    { img: mongodb, title: "MongoDB" },
+    { img: wordpress, title: "Wordpress" },
+    { img: html, title: "HTML" },
+    { img: css, title: "CSS" },
+    { img: javascript, title: "JavaScript" },
+    { img: bootstrap, title: "Bootstrap" },
+    { img: jquery, title: "jQuery" },
+    { img: firebaase, title: "Firebase" },
     { img: npm, title: "NPM" },
     { img: photoshop, title: "Photoshop" },
     { img: premier_pro, title: "Premier Pro" },
